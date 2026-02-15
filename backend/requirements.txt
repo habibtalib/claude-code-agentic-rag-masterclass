@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+openai>=1.68.0
+python-dotenv
+pydantic
+pydantic-settings
+python-jose[cryptography]
+httpx
+sse-starlette
+langsmith>=0.3.16
